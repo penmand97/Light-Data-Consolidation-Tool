@@ -1,0 +1,6 @@
+,Address,BIC,Bank Account Number,Bank Code,Bank Country,Bank Name,Bank country,Bank name,City,Comapny Address,Company Entities,Company entities,Country,Currency,Currency code,Description,Email,Email for Contact,Group,Groups,IBAN,Name,Norwegian Bankgiro Number,Number,Owner,Payment terms,Postcode,VAT Code,VAT-No,Vendor Group,Vendor ID,Vendor ID Number,Vendor Name,Vendor Number,Vendor identifier,Vendor name,ZIP,ZIP/postcode
+cleaned_ES.csv,✓,✓,✓,✓,✓,-,-,✓,✓,-,✓,-,✓,-,✓,-,-,✓,-,✓,✓,-,-,-,-,-,-,-,✓,-,-,✓,✓,-,-,-,✓,-
+cleaned_BE.csv,✓,✓,✓,✓,-,-,✓,-,✓,-,-,✓,✓,✓,-,-,✓,-,✓,-,✓,-,-,✓,✓,-,-,✓,-,-,✓,-,-,-,-,✓,-,✓
+cleaned_CZ.csv,-,✓,✓,✓,-,-,✓,✓,✓,✓,-,✓,✓,✓,-,✓,✓,-,-,-,✓,-,-,-,-,-,✓,✓,-,✓,-,-,-,-,✓,✓,-,-
+cleaned_NO.csv,✓,✓,✓,✓,-,✓,✓,-,✓,-,-,✓,✓,✓,-,-,✓,-,-,-,✓,✓,✓,-,-,✓,-,✓,-,✓,-,-,-,-,✓,-,-,✓
+cleaned_CH.csv,✓,✓,✓,✓,-,✓,✓,-,✓,-,-,✓,✓,✓,-,-,✓,-,-,-,✓,✓,-,-,-,✓,-,✓,-,✓,-,-,-,✓,-,-,-,✓

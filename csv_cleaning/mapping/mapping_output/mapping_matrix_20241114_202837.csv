@@ -1,0 +1,22 @@
+Standard Field,BE,CH,CZ,ES,NO
+address,Address,Address,Comapny Address,Address,Address
+bank_account_number,Bank Account Number,Bank Account Number,Bank Account Number,Bank Account Number,Bank Account Number
+bank_code,Bank Code,Bank Code,Bank Code,Bank Code,Bank Code
+bank_country,Bank country,Bank country,Bank country,Bank Country,Bank country
+bank_name,,Bank Name,Bank name,Bank name,Bank Name
+belgian_number,Number,,,,
+bic,BIC,BIC,BIC,BIC,BIC
+city,City,City,City,City,City
+company_entity,Company entities,Company entities,Company entities,Company Entities,Company entities
+country,Country,Country,Country,Country,Country
+currency,Currency,Currency,Currency,Currency code,Currency
+email,Email,Email,Email,Email for Contact,Email
+group,Group,Vendor Group,Vendor Group,Groups,Vendor Group
+iban,IBAN,IBAN,IBAN,IBAN,IBAN
+norwegian_bankgiro_number,,,,,Norwegian Bankgiro Number
+owner,Owner,,,,
+payment_terms,,Payment terms,,,Payment terms
+postal_code,ZIP/postcode,ZIP/postcode,Postcode,ZIP,ZIP/postcode
+vat_number,VAT Code,VAT Code,VAT Code,VAT-No,VAT Code
+vendor_id,Vendor ID,Vendor Number,Vendor identifier,Vendor ID Number,Vendor identifier
+vendor_name,Vendor name,Name,Description | Vendor name,Vendor Name,Name

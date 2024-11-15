@@ -1,6 +1,6 @@
 # Vendor Data Processing Pipeline
 
-A robust Python-based data processing pipeline for cleaning, standardizing, and consolidating vendor data from multiple sources. This project provides a systematic approach to handle vendor data transformation with features for deduplication, standardisation, and analysis.
+A robust Python-based data processing pipeline for cleaning, standardising, and consolidating vendor data from multiple sources. This project provides a systematic approach to handle vendor data transformation with features for deduplication, standardisation, and analysis.
 
 ## Features
 

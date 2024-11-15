@@ -89,7 +89,7 @@ update the MOST RECENTLY CREATED mapping file to map the fields to the standard 
 ![Mapped Fields Example](mappedimg.png)
 
 csv_cleaning/mapping/mapping_output 
-^^^^the file you need to update is the MOST RECENTLY CREATED one wothin this location ^^^^
+^^^^the file you need to update is the MOST RECENTLY CREATED one within this location ^^^^
 
 ### 2. Post-Mapping Process
 

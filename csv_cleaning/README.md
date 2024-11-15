@@ -73,13 +73,26 @@ Run this first to prepare your data for mapping:
 ```bash
 python pre_mapping_process.py
 ```
-
 This will:
 - Refresh the mapping matrix
 - Consolidate data
 - Perform final cleaning and standardisation
 
+## Mapping Process Example
+Here you can see the Unmapped fields as a result of running the create mapping script, here you'll 
+update the MOST RECENTLY CREATED mapping file to map the fields to the standard fields
+
+### Before Mapping:
+![Unmapped Fields Example](unmappedimg.png)
+
+### After Mapping:
+![Mapped Fields Example](mappedimg.png)
+
+csv_cleaning/mapping/mapping_output 
+^^^^the file you need to update is the MOST RECENTLY CREATED one wothin this location ^^^^
+
 ### 2. Post-Mapping Process
+
 
 After reviewing and editing the mapping file, run:
 ```bash
